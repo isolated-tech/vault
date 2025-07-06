@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "5d32ec7f4e1c7e92",
+    "type": "split",
+    "children": [
+      {
+        "id": "015a1165bc33cbb2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "280e804c6603fff7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Internal/Social Media Content Ideas/Post for “our services”/Post for “our services”.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Post for “our services”"
+            }
+          },
+          {
+            "id": "c8b9eeddba176c9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Internal/Inspiration.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Inspiration"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "731e61794cb222f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "ffaf6286f359f479",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d58e11573c2cb62",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ba2d8fedb77c06f1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "87bf10ab772fc603",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "35ac105708344146",
+    "type": "split",
+    "children": [
+      {
+        "id": "be823bfa6e8961c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e70d686fcce88e9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Internal/Asset Library/Asset Library.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Asset Library"
+            }
+          },
+          {
+            "id": "fd07cbea4f43d5bd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Internal/Asset Library/Asset Library.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Asset Library"
+            }
+          },
+          {
+            "id": "b18515951008c483",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c5eb82fabbbe3ac2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Internal/Asset Library/Asset Library.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Asset Library"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-importer:Open Importer": false
+    }
+  },
+  "active": "280e804c6603fff7",
+  "lastOpenFiles": [
+    "Internal/Social Media Content Ideas/Photoshoot Ideas/Photoshoot Ideas.md",
+    "Internal/Daily Notes.md",
+    "Internal/Inspiration.md",
+    "CleanShot 2025-07-06 at 08.44.38@2x.png",
+    "Internal/Internal/Order Starlink.md",
+    "Internal/Expenses/Expenses.md",
+    "Internal/Expenses/Google Workspaces.md",
+    "Internal/Expenses/Starlink.md",
+    "Internal/Expenses/Descript.md",
+    "Internal/Expenses/Cloudflare - Images.md",
+    "Internal/Daily Notes/Planner/Create Daily Planner.md",
+    "Internal/Daily Notes/Planner/Test.md",
+    "Internal/Daily Notes/Planner/Untitled.md",
+    "Internal/Asset Library/Asset Library.md",
+    "Internal/Asset Library/Website header image.md",
+    "Internal/Asset Library/images/color_palette.png",
+    "Internal/Asset Library/images",
+    "Internal/Asset Library/Notion icon/Notion icon.md",
+    "Internal/Asset Library/AI face.md",
+    "Internal/Asset Library/Untitled 2.md",
+    "Internal/Asset Library/Untitled.md",
+    "Internal/Asset Library/images/Layer_3.png",
+    "Internal/Asset Library/images/Layer_4.png",
+    "Internal/Asset Library/images/Layer_2.png",
+    "Internal/Asset Library/images/Layer_1 1.png",
+    "Internal/Asset Library/images/Layer_1.png",
+    "Internal/Asset Library/images/Screenshot_2025-07-02_at_11.43.47.png",
+    "Welcome.md",
+    "Internal/Asset Library/images/Screenshot_2025-07-02_at_11.43.19.png",
+    "Internal/Asset Library/images/Screenshot_2025-07-02_at_11.42.36.png",
+    "ARound/Timesheet/Timesheets/Untitled 9.md",
+    "ARound/Timesheet/Timesheets/Untitled 4.md",
+    "ARound/Timesheet/Timesheets/Untitled 3.md",
+    "ARound/Timesheet/Timesheets/Untitled 2.md",
+    "ARound/Timesheet/Timesheets/Untitled.md",
+    "ARound/ARound.md",
+    "Talasofilia Pilates/Daily Notes/Planner/Untitled 6.md",
+    "Talasofilia Pilates/Daily Notes/Planner",
+    "Talasofilia Pilates/Daily Notes",
+    "Servigrafic Solutions/Daily Notes/Planner",
+    "Servigrafic Solutions/Daily Notes",
+    "Alfonso Alfaro/Daily Notes/Planner",
+    "Alfonso Alfaro/Daily Notes",
+    "Internal/Daily Notes/Planner",
+    "Internal/Daily Notes",
+    "Internal/Asset Library/Notion icon"
+  ]
+}

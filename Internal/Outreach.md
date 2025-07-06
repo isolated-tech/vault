@@ -1,0 +1,1 @@
+A list of people worth talking to, currently talking to, or finished talking to.

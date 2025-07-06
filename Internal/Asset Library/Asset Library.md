@@ -1,0 +1,8 @@
+Track and share your design assets.
+
+| Asset name                                    | Asset URL | Asset description                     | Asset type   | Designer | Files & media                                                                          | Last edited          | Status        |
+| --------------------------------------------- | --------- | ------------------------------------- | ------------ | -------- | -------------------------------------------------------------------------------------- | -------------------- | ------------- |
+| [[Website header image]]                      |           | Hero banner for our marketing site    | Photo        |          |                                                                                        | July 1, 2025 8:59 AM | Final version |
+| [[Notion icon]]                               |           | Canonical Notion logo                 | Icon         |          | ![[color_palette.png]]![[Layer_1.png]]![[Layer_2.png]]![[Layer_3.png]]![[Layer_4.png]] | July 1, 2025 6:09 PM | 1st draft     |
+| [[AI face]]                                   |           | Latest illustration of Notion AI face | Illustration |          |                                                                                        | July 1, 2025 8:59 AM | In progress   |
+| [[Internal/Asset Library/Untitled\|Untitled]] |           |                                       |              |          |                                                                                        | July 1, 2025 9:12 AM | Not started   |
