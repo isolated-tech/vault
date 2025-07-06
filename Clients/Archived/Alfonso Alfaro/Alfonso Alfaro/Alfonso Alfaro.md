@@ -6,5 +6,5 @@ Alfonso Alfaro is an artist from Mexico City.
 |[[Change text on the website]]|Daniela Bontecou|||Low||Done|||
 |[[Change the image cover]]||||||Not started|||
 |[[Remove the exhibit tab]]||||||Not started|||
-|[[Alfonso Alfaro/Alfonso Alfaro/Timesheet\|Timesheet]]||||||Not started|||
-|[[Alfonso Alfaro/Alfonso Alfaro/Daily Notes\|Daily Notes]]||||||Not started|||
+|[[Clients/Archived/Alfonso Alfaro/Alfonso Alfaro/Timesheet\|Timesheet]]||||||Not started|||
+|[[Clients/Archived/Alfonso Alfaro/Alfonso Alfaro/Daily Notes\|Daily Notes]]||||||Not started|||

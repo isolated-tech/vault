@@ -180,11 +180,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-importer:Open Importer": false
+      "obsidian-importer:Open Importer": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "280e804c6603fff7",
+  "active": "9d58e11573c2cb62",
   "lastOpenFiles": [
+    "Clients/Archived",
+    "Clients/Current",
+    "Clients",
     "Internal/Social Media Content Ideas/Photoshoot Ideas/Photoshoot Ideas.md",
     "Internal/Daily Notes.md",
     "Internal/Inspiration.md",
@@ -221,15 +225,12 @@
     "ARound/Timesheet/Timesheets/Untitled 2.md",
     "ARound/Timesheet/Timesheets/Untitled.md",
     "ARound/ARound.md",
-    "Talasofilia Pilates/Daily Notes/Planner/Untitled 6.md",
     "Talasofilia Pilates/Daily Notes/Planner",
     "Talasofilia Pilates/Daily Notes",
     "Servigrafic Solutions/Daily Notes/Planner",
     "Servigrafic Solutions/Daily Notes",
-    "Alfonso Alfaro/Daily Notes/Planner",
-    "Alfonso Alfaro/Daily Notes",
-    "Internal/Daily Notes/Planner",
-    "Internal/Daily Notes",
-    "Internal/Asset Library/Notion icon"
+    "Clients/Archived/Alfonso Alfaro/Daily Notes/Planner",
+    "Clients/Archived/Alfonso Alfaro/Daily Notes",
+    "Internal/Daily Notes/Planner"
   ]
 }
