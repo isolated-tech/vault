@@ -1,6 +1,6 @@
 Dan Koe
 - [Instagram](https://www.instagram.com/thedankoe/)
-- ![[CleanShot 2025-07-06 at 08.44.38@2x.png|400]]
+- ![[dan-koe-instragram-feed.png|400]]
 - Motion graphic tutorials:
 	- [To Edit A Dan Koe Motion Graphics Video In Davinci Resolve | Part 01](https://www.youtube.com/watch?v=TKk_1mNmJ8M)
 	- [How to animate like Dan Koe](https://www.youtube.com/watch?v=J2xq3FDYe8w)
