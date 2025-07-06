@@ -2,7 +2,7 @@
 
 Welcome to the Isolated Tech (Isotech) Obsidian vault - a comprehensive knowledge management system for a technology services company specializing in web development and digital solutions.
 
-## 📁 Vault Structure
+## Vault Structure
 
 ```
 isolated.tech.vault/
@@ -20,7 +20,7 @@ isolated.tech.vault/
     └── Social Media Content Ideas/  # Marketing content
 ```
 
-## 🎯 About Isolated Tech
+## About Isolated Tech
 
 Isolated Tech is a technology services company that provides:
 - **Web Development**: Modern web applications using Vue 3, TypeScript, and cutting-edge frameworks
@@ -28,7 +28,7 @@ Isolated Tech is a technology services company that provides:
 - **Digital Solutions**: Custom software solutions tailored to client needs
 - **Remote Services**: Fully distributed team with robust remote infrastructure
 
-## 👥 Current Clients
+## Current Clients
 
 ### ARound
 - **Project**: Producer Web App - AR content management platform
@@ -43,7 +43,7 @@ Isolated Tech is a technology services company that provides:
 - **Project**: Class booking and management system
 - **Features**: Admin dashboard, calendar integration, payment processing (Mercado Pago), Spanish localization
 
-## 🛠️ Workflow System
+## Workflow System
 
 Each client project follows a standardized structure:
 
@@ -62,7 +62,7 @@ Each client project follows a standardized structure:
    - Billable hours documentation
    - Project time analysis
 
-## 📊 Internal Organization
+## Internal Organization
 
 ### Expense Tracking
 - **Infrastructure**: Starlink (internet), Google Workspaces
@@ -79,7 +79,7 @@ Each client project follows a standardized structure:
 - **Image Organization**: Structured with metadata
 - **Brand Resources**: Logos, colors, and style guides
 
-## 🚀 Key Features
+## Key Features
 
 - **Standardized Templates**: Consistent project structure across all clients
 - **Time Management**: Meticulous tracking for accurate billing
@@ -87,7 +87,7 @@ Each client project follows a standardized structure:
 - **Documentation First**: Comprehensive project documentation
 - **Remote Infrastructure**: Investment in tools supporting distributed work
 
-## 📝 Usage
+## Usage
 
 This vault serves as:
 1. **Project Management Hub**: Track all client work and progress
@@ -95,7 +95,7 @@ This vault serves as:
 3. **Business Operations**: Manage expenses, time, and resources
 4. **Client Communication**: Maintain project status and deliverables
 
-## 🔧 Technologies
+## Technologies
 
 Common technologies used across projects:
 - Frontend: Vue 3, TypeScript, Tailwind CSS

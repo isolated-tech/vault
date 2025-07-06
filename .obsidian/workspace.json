@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "015a1165bc33cbb2",
+        "id": "f8852089ea17dac0",
         "type": "tabs",
         "children": [
           {
-            "id": "c8b9eeddba176c9a",
+            "id": "f91da7f0477e5d39",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Internal/Asset Library/images/dan-koe-instragram-feed.png"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "dan-koe-instragram-feed"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -168,10 +170,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c8b9eeddba176c9a",
+  "active": "f91da7f0477e5d39",
   "lastOpenFiles": [
-    "Internal/Inspiration.md",
     "Internal/Asset Library/images/dan-koe-instragram-feed.png",
+    "README.md",
+    "Internal/Inspiration.md",
     "Internal/Social Media Content Ideas/Post for “our services”/Post for “our services”.md",
     "Clients/Archived",
     "Clients/Current",
@@ -208,7 +211,6 @@
     "Clients/Current/ARound/Timesheet/Timesheets/Untitled 4.md",
     "Clients/Current/ARound/Timesheet/Timesheets/Untitled 3.md",
     "Clients/Current/ARound/Timesheet/Timesheets/Untitled 2.md",
-    "Clients/Current/ARound/Timesheet/Timesheets/Untitled.md",
     "Clients/Current/Talasofilia Pilates/Daily Notes/Planner",
     "Clients/Current/Talasofilia Pilates/Daily Notes",
     "Clients/Current/Servigrafic Solutions/Daily Notes/Planner",
