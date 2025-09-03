@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "obsidian": {
+      "command": "uvx",
+      "args": [
+        "mcp-obsidian"
+      ],
+      "env": {
+        "OBSIDIAN_API_KEY": "1edcf6efea81edb71679554e4e9477f69a1802b394fb7b9e21d8e4471e7a99f8"
+      }
+    }
+  }
+}
