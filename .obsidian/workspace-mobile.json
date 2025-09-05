@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "7883b16ebd67bc14",
+    "type": "split",
+    "children": [
+      {
+        "id": "ccb9fa06771a2a8f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76396392ca91a42f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f17bed53b3cffc93",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "29f2024592d011d0",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "d9460571fae7a4f9",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "e634ac1b0a90d99d",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "3c119011d56ef067",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "9e559cd40041a3ab",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "5b9b704cac15aabd",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "bb1aad9b628b97bb",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "1a913cf6f0ac8765",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      },
+      {
+        "id": "e79b5d500ad92281",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "76396392ca91a42f",
+  "lastOpenFiles": [
+    "Clippings/Register your short-term accommodation.md",
+    "Clippings/Cape Forchu Waterfront House Construction Implementation Plan.md",
+    "Clippings/HELOC Financing Strategy for Cape Forchu Construction Project.md",
+    "Clippings/Amazing Fire Tower Cabin Stays True to History – Mother Earth News.md",
+    "Clippings/Cape Forchu Vacation Rental Regulations & Opportunity Analysis.md",
+    "Clippings",
+    "Internal/Social Media Content Ideas/Video Ideas/To Do/Tool use in Ollama.md",
+    "Internal/Social Media Content Ideas/Video Ideas/To Do/Deploying open-source model to Replicate.md",
+    "Internal/Social Media Content Ideas/Video Ideas/To Do/OpenRouter.md",
+    "Internal/Social Media Content Ideas/Video Ideas/To Do/Claude Code - GH Action Context Management.md",
+    "Internal/Social Media Content Ideas/Video Ideas/To Do/Chat with open-source models from your phone.md",
+    "Internal/Social Media Content Ideas/Video Ideas/To Do/Building on top of Kokoro's text-to-speech model.md",
+    "Internal/Social Media Content Ideas/Video Ideas/To Do/Ollama Structured Output.md",
+    "Internal/Social Media Content Ideas/Video Ideas/To Do/Tips to using Claude Code in Github Action.md",
+    "Internal/Social Media Content Ideas/Video Ideas/To Do/Development tools are moving to the cloud.md",
+    "Internal/Social Media Content Ideas/Video Ideas/To Do/Agentic Programming with open source AI models.md",
+    "Internal/Social Media Content Ideas/Video Ideas/Done/Vue authentication via Clerk.md",
+    "Internal/Social Media Content Ideas/Video Ideas/Doing/Connect Claude to Obsidian MCP-Obsidian Server Setup Guide.md",
+    "Internal/Social Media Content Ideas/Video Ideas/To Do",
+    "Internal/Social Media Content Ideas/Video Ideas/Done",
+    "Internal/Social Media Content Ideas/Video Ideas/Doing",
+    "Internal/Social Media Content Ideas/Photoshoot Ideas/Photoshoot Ideas.md",
+    "Internal/Social Media Content Ideas/Post for “our services”/Post for “our services”.md",
+    "Internal/Periodic Notes/Templates/yearly-template.md",
+    "Internal/Periodic Notes/Templates/daily-template.md",
+    "Internal/Periodic Notes/Templates/monthly-template.md",
+    "Internal/Periodic Notes/Templates/weekly-template.md",
+    "Internal/Periodic Notes/Daily/2025-08-04.md",
+    "Internal/Periodic Notes/Daily/2025-08-05.md",
+    "Internal/Periodic Notes/Daily/2025-08-03.md",
+    "Internal/Asset Library/images/Layer_4.png",
+    "Internal/Asset Library/images/Screenshot_2025-07-02_at_11.43.47.png",
+    "Internal/Asset Library/images/Layer_1 1.png",
+    "Internal/Asset Library/images/Layer_2.png",
+    "Internal/Asset Library/images/Layer_3.png",
+    "Internal/Asset Library/images/Layer_1.png",
+    "Internal/Asset Library/images/dan-koe-instragram-feed.png",
+    "Internal/Asset Library/images/Screenshot_2025-07-02_at_11.41.21.png",
+    "Internal/Asset Library/images/Screenshot_2025-07-02_at_11.43.19.png",
+    "Internal/Asset Library/images/color_palette.png",
+    "Internal/Social Media Content Ideas/Video Ideas",
+    "Internal/Social Media Content Ideas/Photoshoot Ideas",
+    "Internal/Social Media Content Ideas/Post for “our services”",
+    "Internal/Periodic Notes/Templates",
+    "Internal/Periodic Notes/Daily",
+    "Internal/Periodic Notes/Weekly"
+  ]
+}
