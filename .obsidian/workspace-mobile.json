@@ -11,10 +11,14 @@
             "id": "76396392ca91a42f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Untitled test file.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Untitled test file"
             }
           }
         ]
@@ -160,6 +164,7 @@
   },
   "active": "76396392ca91a42f",
   "lastOpenFiles": [
+    "Untitled test file.md",
     "Test dir",
     "Clippings/Register your short-term accommodation.md",
     "Clippings/Cape Forchu Waterfront House Construction Implementation Plan.md",
@@ -204,7 +209,6 @@
     "Internal/Social Media Content Ideas/Photoshoot Ideas",
     "Internal/Social Media Content Ideas/Post for “our services”",
     "Internal/Periodic Notes/Templates",
-    "Internal/Periodic Notes/Daily",
-    "Internal/Periodic Notes/Weekly"
+    "Internal/Periodic Notes/Daily"
   ]
 }
