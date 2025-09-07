@@ -1,0 +1,2 @@
+- Parse the output of GitHub MCP’s `create_issue` tool calls to ensure `@claude` is inside of the ticket.
+- Is GitHub’s hosted MCP server Streamable HTTP or does it support the Responses api?

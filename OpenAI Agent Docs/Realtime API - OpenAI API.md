@@ -19,29 +19,7 @@ One of the most common use cases for the Realtime API is building voice agents f
 ```js
 1
 
-2
 
-3
-
-4
-
-5
-
-6
-
-7
-
-8
-
-9
-
-10
-
-11
-
-12
-
-13
 
 import { RealtimeAgent, RealtimeSession } from "@openai/agents/realtime";
 
@@ -58,13 +36,8 @@ await session.connect({
 });
 ```
 
-[
-
-Voice Agent Quickstart
-
 Follow the voice agent quickstart to build Realtime agents in the browser.
-
-](https://openai.github.io/openai-agents-js/guides/voice-agents/quickstart/)
+[Voice Agent Quickstart](https://openai.github.io/openai-agents-js/guides/voice-agents/quickstart/)
 
 To use the Realtime API directly outside the context of voice agents, check out the other connection options below.
 

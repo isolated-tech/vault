@@ -1,0 +1,1 @@
+- most of your wind noise comes from sharp corners on housing

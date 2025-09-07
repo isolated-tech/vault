@@ -1,0 +1,2 @@
+- sho sugi ban: Japanese burn and oil technique. Oldest wooden building in the world is in Japan with this burn finish.
+- Never needs to be painted
