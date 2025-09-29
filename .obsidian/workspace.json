@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Internal/Voicescript/Blog Posts/iOS shortcuts for quicker coding.md",
+                "file": "Internal/Voicescript/Blog Posts/Codex in Github.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "iOS shortcuts for quicker coding"
+              "title": "Codex in Github"
             }
           }
         ]
@@ -173,8 +173,10 @@
   },
   "active": "d86b1d955f5d4ab5",
   "lastOpenFiles": [
-    "Internal/Voicescript/Blog Posts/Keep your Macbook running while closed.md",
+    "Internal/Voicescript/Blog Posts/Claude Code Github Action Tips.md",
+    "Internal/Voicescript/Blog Posts/Codex in Github.md",
     "Internal/Voicescript/Blog Posts/iOS shortcuts for quicker coding.md",
+    "Internal/Voicescript/Blog Posts/Keep your Macbook running while closed.md",
     "Internal/Voicescript/Blog Posts/Running Claude Code on your iPhone.md",
     "Internal/Social Media Content Ideas/Video Ideas/Doing/Connect Claude to Obsidian MCP-Obsidian Server Setup Guide.md",
     "Internal/Voicescript/Todo.md",
@@ -200,8 +202,6 @@
     "Clippings/Agents.md",
     "Internal/Voice Agents/OpenAI Agent Docs/Tools.md",
     "Internal/Voice Agents/OpenAI Agent Docs/Streaming.md",
-    "Internal/Voice Agents/OpenAI Agent Docs/Running agents.md",
-    "Internal/Voice Agents/OpenAI Agent Docs/Realtime API with WebRTC - OpenAI API.md",
     "Internal/Voice Agents/OpenAI Agent Docs",
     "Internal/Putter/Solar",
     "Internal/Putter",

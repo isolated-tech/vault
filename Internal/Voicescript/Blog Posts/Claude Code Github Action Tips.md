@@ -1,0 +1,3 @@
+- Auto PR Github Action
+- Optimal permissions
+- Ability to edit own workflow file
