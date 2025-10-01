@@ -8,3 +8,5 @@ My GitHub issues are not running Claude
 - ensure you have the appropriate GitHub workflow file installed by running /install-github-app in your local repository
 Is my token secure?
 - absolutely. It’s stored client-side within your browser. We never see it and we never want to!
+My api key is not syncing between devices
+- your key is stored on the browser you inputted it to. This means you must input it every time you start a session on a new device or clear your local storage.
