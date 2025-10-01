@@ -8,31 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "76396392ca91a42f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/Realtime API with WebRTC - OpenAI API.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Realtime API with WebRTC - OpenAI API"
-            }
-          },
-          {
             "id": "0bb3d03d6a7b13c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding Voice Agent.md",
+                "file": "Voice script FAQ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Coding Voice Agent"
+              "title": "Voice script FAQ"
             }
           }
         ]
@@ -177,40 +163,44 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "76396392ca91a42f",
+  "active": "0bb3d03d6a7b13c1",
   "lastOpenFiles": [
-    "OpenAI Agent Docs/Realtime API with WebRTC - OpenAI API.md",
-    "Clippings/Realtime API with WebRTC - OpenAI API.md",
-    "Internal/Yarmouth/Finishings.md",
-    "Internal/Yarmouth/Rounded corners.md",
-    "Internal/Yarmouth/Heater.md",
-    "Internal/Yarmouth/Housing Inspiration.md",
-    "Internal/Inspiration.md",
+    "Voice script FAQ.md",
+    "Internal/Periodic Notes/Daily/2025-09-16.md",
+    "Internal/Voicescript/Blog Posts/Codex in Github.md",
+    "Internal/Voicescript/Blog Posts/Claude Code Github Action Tips.md",
+    "Internal/Voicescript/Blog Posts/iOS shortcuts for quicker coding.md",
+    "Hooking into Localhost on iPhone.md",
+    "Clippings/American Football Match EventsV2 - Genius Sports Integration Documents - Confluence.md",
+    "Clippings/Zoning Laws - 1st steps.md",
+    "Clippings/American Football Basics - Genius Sports Integration Documents - Confluence.md",
+    "Internal/Voicescript/Todo.md",
+    "Internal/Voicescript/Blog Posts/Keep your Macbook running while closed.md",
+    "Clippings/Setting Up Obsidian Git on iOS without iSH* or Working Copy - Share & showcase.md",
+    "Internal/Voicescript/Blog Posts/Running Claude Code on your iPhone.md",
     "OpenAI Agent Docs/Running agents.md",
-    "OpenAI Agent Docs/OpenAI typescript agents quickstart.md",
-    "OpenAI Agent Docs/OpenAI Agents SDK TypeScript.md",
-    "OpenAI Agent Docs/Building Voice Agents.md",
-    "OpenAI Agent Docs/Context management.md",
-    "OpenAI Agent Docs/Streaming.md",
-    "OpenAI Agent Docs/Voice Agents Quickstart.md",
-    "OpenAI Agent Docs/Realtime Transport Layer.md",
-    "OpenAI Agent Docs/Realtime API - OpenAI API.md",
-    "OpenAI Agent Docs/Model Context Protocol (MCP).md",
-    "Coding Voice Agent.md",
-    "Clippings/Amazing Fire Tower Cabin Stays True to History – Mother Earth News.md",
-    "OpenAI Agent Docs/Agents.md",
-    "OpenAI Agent Docs",
-    "OpenAI Agent Docs/Human in the loop.md",
-    "OpenAI Agent Docs/Models.md",
-    "OpenAI Agent Docs/Handoffs.md",
-    "OpenAI Agent Docs/Orchestrating multiple agents.md",
-    "OpenAI Agent Docs/Tools.md",
-    "OpenAI Agent Docs/Results.md",
-    "Test dir",
-    "Clippings",
-    "Internal/Social Media Content Ideas/Video Ideas/To Do",
-    "Internal/Social Media Content Ideas/Video Ideas/Done",
-    "Internal/Social Media Content Ideas/Video Ideas/Doing",
+    "/Internal/Voicescript/Todo.md",
+    "/Internal/Voicescript/Blog Posts/iOS shortcuts for quicker coding.md",
+    "/Internal/Voicescript/Blog Posts/Running Claude Code on your iPhone.md",
+    "/Internal/Voicescript/Blog Posts/Keep your Macbook running while closed.md",
+    "/Internal/Voicescript/Blog Posts/Codex in Github.md",
+    "/Internal/Voicescript/Blog Posts/Claude Code Github Action Tips.md",
+    "Internal/Voice Agents/Coding Voice Agent.md",
+    "Internal/Voicescript/Blog Posts",
+    "Internal/Voicescript",
+    "Internal/Voice Agents/OpenAI Agent Docs/Realtime Transport Layer.md",
+    "Internal/Voice Agents/OpenAI Agent Docs/Model Context Protocol (MCP).md",
+    "Internal/Voice Agents/OpenAI Agent Docs/Results.md",
+    "Internal/Voice Agents/OpenAI Agent Docs/OpenAI Agents SDK TypeScript.md",
+    "Internal/Voice Agents/OpenAI Agent Docs/Realtime Transport Layer 1.md",
+    "Internal/Voice Agents/OpenAI Agent Docs",
+    "/Internal/Periodic Notes/Daily",
+    "/Internal/Periodic Notes",
+    "/Internal/Voicescript/Blog Posts",
+    "/Internal/Voicescript",
+    "/Internal/Voice Agents/OpenAI Agent Docs",
+    "/Internal/Voice Agents",
+    "Internal/Voice Agents",
     "Internal/Asset Library/images/Layer_4.png",
     "Internal/Asset Library/images/Screenshot_2025-07-02_at_11.43.47.png",
     "Internal/Asset Library/images/Layer_1 1.png",
@@ -220,10 +210,6 @@
     "Internal/Asset Library/images/dan-koe-instragram-feed.png",
     "Internal/Asset Library/images/Screenshot_2025-07-02_at_11.41.21.png",
     "Internal/Asset Library/images/Screenshot_2025-07-02_at_11.43.19.png",
-    "Internal/Asset Library/images/color_palette.png",
-    "Internal/Social Media Content Ideas/Video Ideas",
-    "Internal/Social Media Content Ideas/Photoshoot Ideas",
-    "Internal/Social Media Content Ideas/Post for “our services”",
-    "Internal/Periodic Notes/Templates"
+    "Internal/Asset Library/images/color_palette.png"
   ]
 }
