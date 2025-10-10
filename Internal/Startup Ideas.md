@@ -1,0 +1,4 @@
+- [[🧩 Feedback-to-Issue Component Specification]] that sends comment to website's codebase's github issue with @claude / @codex appended to the comment to auto-generate an initial code implementation of the fix.
+	- It should be a iframe/copy-pastable component that can be plugged into the users website.
+	- Admin dashboard to set up github oauth and set repo
+- MacOS/iOS application that takes screenshots, annotates, then sends to Github issue with @claude / @codex to implement a fix.
