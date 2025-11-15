@@ -1,0 +1,5 @@
+{
+  "autorun": true,
+  "template": "Internal/Templates/Daily Note Template",
+  "folder": "Internal/Daily Notes"
+}

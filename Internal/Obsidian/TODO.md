@@ -4,3 +4,4 @@
 	1. Maybe it's finally time purchase the ability to sync git onto iPhone
 3. Update [[Expenses]] with a modern table that updates monthly
 	1. Would be super cool to get some form of automation that checks in with bank statement(s) to see if the expense occurred.
+

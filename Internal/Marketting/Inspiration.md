@@ -8,3 +8,4 @@ Dan Koe
 	- [Make Viral Motion Graphics Animations with CapCut and Canva (completely free) | Part 1](https://www.youtube.com/watch?v=b8SGryxaaTU)
 	- [Make Viral Motion Graphics Animations with CapCut and Canva (completely free) | Part 2](https://www.youtube.com/watch?v=qDWQDsHNml0)
 
+https://www.supercharged.design/

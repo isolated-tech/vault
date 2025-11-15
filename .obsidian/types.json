@@ -1,0 +1,15 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "workOut": "checkbox",
+    "gallon": "checkbox",
+    "sugar": "checkbox",
+    "carbs": "checkbox",
+    "headache": "checkbox",
+    "surf": "checkbox",
+    "medicine": "checkbox",
+    "writing": "checkbox"
+  }
+}

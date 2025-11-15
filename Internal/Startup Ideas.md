@@ -2,3 +2,6 @@
 	- It should be a iframe/copy-pastable component that can be plugged into the users website.
 	- Admin dashboard to set up github oauth and set repo
 - MacOS/iOS application that takes screenshots, annotates, then sends to Github issue with @claude / @codex to implement a fix.
+- Indiehacker journal - daily vlogs of indie hackers with a profile page that showcases transcriptions, analysis, mrr, project(s) working on, etc. ($)
+- MacOS screenshot → Prompt → Claude Code 
+	- I want to take a screenshot of my website, write or speak a prompt, and then have it sent off to claude code or in a Github Issue (w/ @claude support).

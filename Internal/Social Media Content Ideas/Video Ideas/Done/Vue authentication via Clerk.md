@@ -1,3 +1,6 @@
+---
+Status: Done
+---
 Could be a quick-win. Just walk people through a simple quickstart for easy authentication in a Vue application.
 
 Quickstart - https://clerk.com/docs/quickstarts/vue
