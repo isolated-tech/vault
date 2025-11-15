@@ -15,7 +15,7 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "Internal/Social Media Content Ideas/Video Ideas/To Do",
+      "folder": "Internal/Content Ideas",
       "template": "Internal/Templates/Socials Content.md"
     },
     {

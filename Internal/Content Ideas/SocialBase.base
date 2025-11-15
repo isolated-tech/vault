@@ -1,0 +1,18 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("Internal/Content Ideas")
+        - '!file.name.contains("Base")'
+        - Status != "Done"
+    order:
+      - file.name
+      - Status
+      - file.mtime
+    sort:
+      - property: file.mtime
+        direction: DESC
+    columnSize:
+      file.name: 449
+      note.Status: 156
