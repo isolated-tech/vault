@@ -38,7 +38,10 @@ The other steps can be completely eliminated now that I know how to run Claude C
 
 ## Twittervim
 
-Twittervim was never meant to make money. It was meant to 
+Twittervim was never meant to make money. It was meant to drive traffic to my X account as #buildinpublic content.
+
+It's hard to say how many people followed me during this particular phase. 
+But, it doesn't hurt to ke
 
 ## Humanize.rs
 
