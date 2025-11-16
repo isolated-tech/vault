@@ -20,4 +20,4 @@ User flow:
 	3. Trigger Pull Requests with latest code changes
 	4. Spawn new conversations with fresh context
 		1. This one may require a multi-agent architecture. The top-level agent can:
-			1. Look into specific conversations. i.e. "Check the status of our changes relating to auth" 
+			1. Look into specific conversations. i.e. "Check the status of our changes relating to auth", the top-level agent will call a tool that finds the conversation relating to auth
