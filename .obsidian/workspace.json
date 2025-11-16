@@ -11,13 +11,14 @@
             "id": "5793c8fb88a16e7d",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Internal/Content Ideas/SocialBase.base",
-                "viewName": "Table"
+                "file": "Internal/Content Ideas/To Do/I launched 5 apps in 40 days and I made this much money.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "SocialBase"
+              "icon": "lucide-file",
+              "title": "I launched 5 apps in 40 days and I made this much money"
             }
           }
         ]
@@ -181,8 +182,8 @@
   },
   "active": "5793c8fb88a16e7d",
   "lastOpenFiles": [
-    "Internal/Content Ideas/To Do/Our “tech stack” while traveling.md",
     "Internal/Content Ideas/SocialBase.base",
+    "Internal/Content Ideas/To Do/Our “tech stack” while traveling.md",
     "Internal/Daily Notes/2025-11-15.md",
     "Internal/Content Ideas/To Do/I launched 5 apps in 40 days and I made this much money.md",
     "9C666A18-395D-44F9-809C-B1E41110341A_1_201_a.jpeg",

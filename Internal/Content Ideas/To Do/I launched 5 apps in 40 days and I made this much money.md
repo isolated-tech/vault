@@ -38,7 +38,7 @@ The other steps can be completely eliminated now that I know how to run Claude C
 
 ## Twittervim
 
-Twittervim was never meant to 
+Twittervim was never meant to make money. It was meant to 
 
 ## Humanize.rs
 
