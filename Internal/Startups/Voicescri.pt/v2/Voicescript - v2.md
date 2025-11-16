@@ -18,3 +18,4 @@ User flow:
 	1. Send prompts to Claude Code
 	2. Check status of Claude Code
 	3. Trigger Pull Requests with latest code changes
+	4. Spawn new conversations wi
