@@ -13,5 +13,7 @@ User flow:
 1. Login w/ Github giving access to repos
 2. Start call with/without Github repo selected
 	1. If not selected, generated code can be published to a new repository
-3. Vercel Sandbox spawns with repository code and Claude Code
-4. Discussions
+3. Vercel Sandbox spawns with repository code with Claude Code
+4. Voice Agent can:
+	1. Send prompts to Claude Code
+	2. Check status of Claude Code
