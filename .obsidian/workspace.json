@@ -11,14 +11,13 @@
             "id": "5793c8fb88a16e7d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Internal/Daily Notes/2025-11-15.md",
-                "mode": "source",
-                "source": false
+                "file": "Internal/Content Ideas/SocialBase.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "2025-11-15"
+              "icon": "lucide-table",
+              "title": "SocialBase"
             }
           }
         ]
@@ -182,6 +181,8 @@
   },
   "active": "5793c8fb88a16e7d",
   "lastOpenFiles": [
+    "Internal/Content Ideas/To Do/Our “tech stack” while traveling.md",
+    "Internal/Content Ideas/SocialBase.base",
     "Internal/Daily Notes/2025-11-15.md",
     "Internal/Content Ideas/To Do/I launched 5 apps in 40 days and I made this much money.md",
     "9C666A18-395D-44F9-809C-B1E41110341A_1_201_a.jpeg",
@@ -201,8 +202,6 @@
     "Internal/Content Ideas/To Do/Ollama Structured Output.md",
     "Internal/Templates/Socials Content.md",
     "Untitled.md",
-    "Internal/Content Ideas/To Do/Our “tech stack” while traveling.md",
-    "Internal/Content Ideas/SocialBase.base",
     "Internal/Content Ideas/To Do/Hooking into Localhost on iPhone.md",
     "Internal/Startup Ideas.md",
     "Internal/Asset Library/images/Screenshot_2025-07-02_at_11.41.10.png",
