@@ -19,4 +19,5 @@ User flow:
 	2. Check status of Claude Code
 	3. Trigger Pull Requests with latest code changes
 	4. Spawn new conversations with fresh context
-		1. This one may require a multi-agent architecture. I imagine a single, parent agent enables us to look into specific conversations
+		1. This one may require a multi-agent architecture. The top-level agent can:
+			1. Look into specific conversations. i.e. "Check the status of our changes relating to auth" 
