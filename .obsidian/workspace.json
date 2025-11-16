@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 341.5,
-    "collapsed": true
+    "width": 341.5
   },
   "right": {
     "id": "35ac105708344146",
@@ -180,12 +179,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5793c8fb88a16e7d",
+  "active": "9d58e11573c2cb62",
   "lastOpenFiles": [
+    "Internal/Startups/Voicescri.pt/Untitled",
+    "Internal/Startups/Voicescri.pt/Untitled.md",
+    "Internal/Content Ideas/To Do/I launched 5 apps in 40 days and I made this much money.md",
     "Internal/Content Ideas/SocialBase.base",
     "Internal/Content Ideas/To Do/Our “tech stack” while traveling.md",
     "Internal/Daily Notes/2025-11-15.md",
-    "Internal/Content Ideas/To Do/I launched 5 apps in 40 days and I made this much money.md",
     "9C666A18-395D-44F9-809C-B1E41110341A_1_201_a.jpeg",
     "Internal/Daily Notes/2025-11-14.md",
     "Internal/Periodic Notes/Setup Guide.md",
@@ -211,7 +212,6 @@
     "Clippings/Articles/Local/Keyhive Local-first access control.md",
     "Internal/Obsidian/TODO.md",
     "Internal/Startups",
-    "Internal/Periodic Notes/Daily/2025-08-04.md",
     "Internal/Templates",
     "Internal/Marketting/Sintesis",
     "Internal/Bases/posts.base",
