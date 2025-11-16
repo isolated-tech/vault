@@ -12,4 +12,5 @@ Key points that I want it to have that v1 did not:
 User flow:
 1. Login w/ Github giving access to repos
 2. Start call with/without Github repo selected
-	1. If not selected, generated code can be []
+	1. If not selected, generated code can be published to a new repository
+3. Vercel Sandbox spawns with repository code and Claude Code
