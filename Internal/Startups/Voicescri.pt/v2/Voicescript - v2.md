@@ -7,3 +7,6 @@ Key points that I want it to have that v1 did not:
 4. No free-tier
 ## MVP
 
+> The MVP is what I personally want out of this, not what I think others may want.
+
+The one-true
