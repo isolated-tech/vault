@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Internal/Content Ideas/To Do/I launched 5 apps in 40 days and I made this much money.md",
+                "file": "Internal/Startups/Voicescri.pt/v2/Voicescript - v2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "I launched 5 apps in 40 days and I made this much money"
+              "title": "Voicescript - v2"
             }
           }
         ]
@@ -179,11 +179,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9d58e11573c2cb62",
+  "active": "5793c8fb88a16e7d",
   "lastOpenFiles": [
-    "Internal/Startups/Voicescri.pt/Untitled",
-    "Internal/Startups/Voicescri.pt/Untitled.md",
     "Internal/Content Ideas/To Do/I launched 5 apps in 40 days and I made this much money.md",
+    "Internal/Startups/Voicescri.pt/v2/Voicescript - v2.md",
+    "Internal/Startups/Voicescri.pt/v2",
+    "Internal/Startups/Voicescri.pt/Untitled.md",
     "Internal/Content Ideas/SocialBase.base",
     "Internal/Content Ideas/To Do/Our “tech stack” while traveling.md",
     "Internal/Daily Notes/2025-11-15.md",
@@ -219,7 +220,6 @@
     "Untitled.base",
     "Internal/Interview Prep/Grokking-the-Coding-Interview/05. Pattern Cyclic Sort/Problem Challenge 3 - Find the First K Missing Positive Numbers (hard).py",
     "Internal/Interview Prep/Grokking-the-Coding-Interview/05. Pattern Cyclic Sort/Problem Challenge 2 - Find the Smallest Missing Positive Number (medium).py",
-    "Internal/Interview Prep/Grokking-the-Coding-Interview/05. Pattern Cyclic Sort/Problem Challenge 1 - Find the Corrupt Pair (easy).py",
     "Internal/Interview Prep/Grokking-the-Coding-Interview/cyclicsort.png",
     "Internal/Interview Prep/Grokking-the-Coding-Interview/mergeintervals.png",
     "Internal/Asset Library/images/dan-koe-instragram-feed.png",
