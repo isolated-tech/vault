@@ -314,4 +314,7 @@ The `streamText` function from the [AI SDK](https://ai-sdk.dev/docs/reference/ai
 
 > Give their [Model Catalog](https://vercel.com/ai-gateway/models) a look. It makes navigating the models nice, quickly showing price per million tokens, providers, and more.
 
-We will be using their A
+We will be using this service to hook our chat's UI to Vercel's AI SDK, completing the end-to-end pipeline.
+
+1. Navigate to https://vercel.com/ai-gateway and create an api key.
+2. Create a `.env` fi
