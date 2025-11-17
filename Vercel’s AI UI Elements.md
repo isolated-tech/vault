@@ -265,3 +265,5 @@ The primary components we are bringing in are:
 - [Reasoning](https://ai-sdk.dev/elements/components/reasoning)
 
 With this snippet in place, run your dev server.
+
+![[CleanShot 2025-11-17 at 01.19.06@2x.png|400]]
