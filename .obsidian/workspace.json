@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "0a59253ec641ab06",
+        "id": "aec83ccd334a40f3",
         "type": "tabs",
         "children": [
           {
-            "id": "1ad9ac41e40b8d6b",
+            "id": "5793c8fb88a16e7d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Internal/Daily Notes/2025-11-17.md",
+                "file": "Vercel’s AI UI Elements.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-11-17"
+              "title": "Vercel’s AI UI Elements"
+            }
+          },
+          {
+            "id": "8d69a16573c45312",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vercel’s AI UI Elements.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vercel’s AI UI Elements"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,22 +194,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1ad9ac41e40b8d6b",
+  "active": "8d69a16573c45312",
   "lastOpenFiles": [
-    "Clients/Current/RundownAI/Vercel’s AI UI Elements - Chatbot.md",
-    "Clients/Current/RundownAI/Take-home interview.md",
-    "Clients/Current/RundownAI",
-    "Vercel’s AI UI Elements Library.md",
-    "ui.shadcn.com.md",
-    "9C666A18-395D-44F9-809C-B1E41110341A_1_201_a.jpeg",
-    "CleanShot 2025-11-17 at 00.51.29@2x.png",
-    "CleanShot 2025-11-17 at 01.04.50@2x.png",
-    "CleanShot 2025-11-17 at 01.15.10@2x.png",
-    "CleanShot 2025-11-17 at 01.16.55@2x.png",
     "CleanShot 2025-11-17 at 01.19.06@2x.png",
-    "CleanShot 2025-11-17 at 01.02.25@2x.png",
-    "Internal/Daily Notes/2025-11-17.md",
+    "CleanShot 2025-11-17 at 01.16.55@2x.png",
+    "CleanShot 2025-11-17 at 01.15.10@2x.png",
     "CleanShot 2025-11-17 at 01.10.13@2x.png",
+    "CleanShot 2025-11-17 at 01.04.50@2x.png",
+    "CleanShot 2025-11-17 at 01.02.25@2x.png",
+    "Vercel’s AI UI Elements Library.md",
+    "CleanShot 2025-11-17 at 00.51.29@2x.png",
+    "Vercel’s AI UI Elements.md",
     "Internal/Daily Notes/2025-11-16.md",
     "Clippings/EyesOff How I Built A Screen Contact Detection Model.md",
     "Internal/Content Ideas/To Do/I launched 5 apps in 40 days and I made this much money.md",
@@ -204,6 +214,7 @@
     "Internal/Startups/Voicescri.pt/Untitled.md",
     "Internal/Content Ideas/SocialBase.base",
     "Internal/Content Ideas/To Do/Our “tech stack” while traveling.md",
+    "9C666A18-395D-44F9-809C-B1E41110341A_1_201_a.jpeg",
     "Internal/Daily Notes/2025-11-14.md",
     "Internal/Periodic Notes/Setup Guide.md",
     "Internal/Periodic Notes/Weekly/2025-W46.md",
@@ -218,6 +229,8 @@
     "Internal/Content Ideas/To Do/Running Localhost on mobile.md",
     "Internal/Content Ideas/To Do/SSH into your macOS computer from an iPhone using Tailscale.md",
     "Internal/Content Ideas/To Do/Ollama Structured Output.md",
+    "Internal/Templates/Socials Content.md",
+    "Internal/Content Ideas/To Do/Hooking into Localhost on iPhone.md",
     "Internal/Asset Library/images/Screenshot_2025-07-02_at_11.41.10.png",
     "Internal/Asset Library/images/color_palette.png",
     "Internal/Startups",
@@ -226,6 +239,8 @@
     "Internal/Bases/posts.base",
     "Internal/Bases",
     "Untitled.base",
-    "Internal/Interview Prep/Grokking-the-Coding-Interview/05. Pattern Cyclic Sort/Problem Challenge 3 - Find the First K Missing Positive Numbers (hard).py"
+    "Internal/Interview Prep/Grokking-the-Coding-Interview/05. Pattern Cyclic Sort/Problem Challenge 3 - Find the First K Missing Positive Numbers (hard).py",
+    "Internal/Interview Prep/Grokking-the-Coding-Interview/05. Pattern Cyclic Sort/Problem Challenge 2 - Find the Smallest Missing Positive Number (medium).py",
+    "Internal/Interview Prep/Grokking-the-Coding-Interview/cyclicsort.png"
   ]
 }
