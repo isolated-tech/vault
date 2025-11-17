@@ -274,7 +274,7 @@ But, you will not get a response from the LLM.
 
 ## AI SDK
 
-Create a new server-
+Create a new route handler at `app/api/chat/route.ts` to accept our user input and send it to the AI model.
 
 ```tsx
 // app/api/chat/route.ts
@@ -307,3 +307,6 @@ export async function POST(req: Request) {
 
 ```
 
+## AI Gateway
+
+Vercel 
