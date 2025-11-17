@@ -257,7 +257,6 @@ export default ChatBotDemo;
 ```
 
 
-
 ## Available Components
 
 AI Elements includes the following components:
