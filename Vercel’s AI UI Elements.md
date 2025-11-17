@@ -264,6 +264,9 @@ The primary components we are bringing in are:
 - [Sources](https://ai-sdk.dev/elements/components/sources)
 - [Reasoning](https://ai-sdk.dev/elements/components/reasoning)
 
-With this snippet in place, run your dev server.
+With this snippet in place, run your dev server. It should look like this:
 
 ![[CleanShot 2025-11-17 at 01.19.06@2x.png|400]]
+
+You can now input text into the text area, which will render your message in the messages UI.
+But, at this stage, you will not get a response from the LLM.
