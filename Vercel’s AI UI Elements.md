@@ -279,7 +279,7 @@ Docs: https://ai-sdk.dev/elements/components/message
 
 ### Prompt Input
 
-The Prompt Input component is what brings in this beautiful input field:
+The `Prompt Input` component is what brings in this beautiful input field:
 
 ![[CleanShot 2025-11-17 at 01.04.50@2x.png]]
 
@@ -288,6 +288,8 @@ The additional children components nested within `<PromptInput />` are how we co
 Docs: https://ai-sdk.dev/elements/components/prompt-input
 
 ### Sources
+
+The `Sources` component allows a user to view the sources or citations used to generate a response.
 
 
 
