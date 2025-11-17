@@ -36,6 +36,7 @@ npm i ai @ai-sdk/react zod
 In your `app/page.tsx`, replace the code with the snippet below:
 
 ```tsx
+// app/page.tsx
 'use client';
 
 import {
@@ -273,7 +274,11 @@ But, you will not get a response from the LLM.
 
 ## AI SDK
 
+Create a new server-
+
 ```tsx
+// app/api/chat/route.ts
+
 import { streamText, UIMessage, convertToModelMessages } from 'ai';
 // Allow streaming responses up to 30 seconds
 export const maxDuration = 30;
@@ -301,3 +306,4 @@ export async function POST(req: Request) {
 }
 
 ```
+
