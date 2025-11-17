@@ -261,7 +261,9 @@ export default ChatBotDemo;
 
 The [Prompt Input](https://ai-sdk.dev/elements/components/prompt-input) component is what brings in this beautiful input field:
 
+![[CleanShot 2025-11-17 at 01.04.50@2x.png]]
 
+The additional children components nested within `<PromptInput />` are what 
 
 ## Available Components
 
