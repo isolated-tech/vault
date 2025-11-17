@@ -267,6 +267,9 @@ The primary components we are bringing in are:
 
 The `Conversation` component wraps messages and automatically scrolls to the bottom. Also includes a scroll button that appears when not at the bottom.
 
+![[CleanShot 2025-11-17 at 01.10.13@2x.png]]
+
+Docs: https://ai-sdk.dev/elements/components/conversation
 ### Prompt Input
 
 The [Prompt Input](https://ai-sdk.dev/elements/components/prompt-input) component is what brings in this beautiful input field:
