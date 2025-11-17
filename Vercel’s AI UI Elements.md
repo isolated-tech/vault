@@ -309,4 +309,4 @@ export async function POST(req: Request) {
 
 ## AI Gateway
 
-Vercel 
+Vercel's [AI Gateway](https://vercel.com/ai-gateway) service provides 
