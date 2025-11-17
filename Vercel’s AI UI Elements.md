@@ -9,6 +9,14 @@ Before using AI Elements, ensure your project meets these requirements:
 - **shadcn/ui** initialized in your project (`npx shadcn@latest init`)
 - **Tailwind CSS** configured (AI Elements supports CSS Variables mode only)
 
+## Installation
+
+First, set up a new Next.js repo and `cd` into it by running the following command:
+
+```
+npx create-next-app@latest ai-chatbot && cd ai-chatbot
+```
+
 
 
 ## Available Components
