@@ -258,7 +258,14 @@ export default ChatBotDemo;
 
 The primary components we are bringing in are:
 - Conversation
-- 
+- Message
+- Prompt Input
+- Sources
+- Reasoning
+
+### Conversation
+
+The `Conversation` component wraps messages and automatically scrolls to the bottom. Also includes a scroll button that appears when not at the bottom.
 
 ### Prompt Input
 
