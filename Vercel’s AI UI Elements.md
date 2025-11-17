@@ -257,6 +257,10 @@ export default ChatBotDemo;
 ```
 
 
+### Prompt Input
+
+![[CleanShot 2025-11-17 at 01.02.25@2x.png]]
+
 ## Available Components
 
 AI Elements includes the following components:
