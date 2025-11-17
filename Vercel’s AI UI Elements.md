@@ -1,3 +1,5 @@
+## History
+
 Vercel released the AI SDK June 15, 2023 [^1] and shortly after released [v0](v0.app) on October 11, 2023 [^2]. 
 
 Vercel has successfully decoupled the AI-logic from v0, placing it into their [AI SDK](https://ai-sdk.dev/).
