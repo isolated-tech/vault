@@ -263,7 +263,9 @@ The [Prompt Input](https://ai-sdk.dev/elements/components/prompt-input) componen
 
 ![[CleanShot 2025-11-17 at 01.04.50@2x.png]]
 
-The additional children components nested within `<PromptInput />` are how we control functionality within the input. In our example, we have 
+The additional children components nested within `<PromptInput />` are how we control functionality within the input. Our example includes image upload, a search toggle, and a dropdown to select different LLMs.
+
+But hopefuly
 
 ## Available Components
 
