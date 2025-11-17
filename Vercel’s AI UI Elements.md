@@ -1,10 +1,4 @@
-## History
-
-Vercel released the [AI SDK](https://ai-sdk.dev/) June 15, 2023 [^1] and shortly after released [v0](v0.app) on October 11, 2023 [^2]. 
-
-Vercel has successfully decoupled the AI-logic from v0, placing it into their AI SDK. But, their UI logic has struggled to find a home. In April of this year, they released the [Chat SDK](https://vercel.com/blog/introducing-chat-sdk) which is "A full-featured, hackable Next.js AI chatbot built by Vercel".
-
-In this article, we'll be exploring their latest toy - AI Elements - which is a component library and custom registry built on top of [shadcn/ui](ui.shadcn.com/) to help you build AI-native applications faster.
+In this article, we'll be exploring Vercel's latest toy - [AI Elements](https://vercel.com/changelog/introducing-ai-elements) - a component library and custom registry built on top of [shadcn/ui](ui.shadcn.com/) to help you build AI-native applications faster.
 
 ## Prerequisites
 
