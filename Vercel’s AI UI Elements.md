@@ -1,18 +1,4 @@
----
-title: Vercel AI UI Elements - Chatbot
-draft: false
-ignore: false
-topics:
-  - ai
-created_at: 2025-11-17T01:19
-last_modified: 2025-11-17T04:21
----
-
-In this article, we'll be exploring Vercel's latest UI library - [AI Elements](https://vercel.com/changelog/introducing-ai-elements) - a component library and custom registry built on top of [shadcn/ui](https://ui.shadcn.com/) to help you build AI-native applications faster.
-
-By the end of this tutorial, you'll have a beautifully styled chat interface to chose from and interact with many AI models.
-
-![Beautifully designed chat interface with an LLM](https://cln.sh/HRlztHYF+)
+In this article, we'll be exploring Vercel's latest UI library - [AI Elements](https://vercel.com/changelog/introducing-ai-elements) - a component library and custom registry built on top of [shadcn/ui](ui.shadcn.com/) to help you build AI-native applications faster.
 ## Prerequisites
 
 Before using AI Elements, ensure your project meets these requirements:
@@ -280,7 +266,7 @@ The primary components we are bringing in are:
 
 With this snippet in place, run your dev server. It should look like this:
 
-![Blank chat interface with no response from AI](https://cln.sh/HqWTKTc5+)
+![[CleanShot 2025-11-17 at 01.19.06@2x.png|400]]
 
 You can now input text into the text area, rendering your message.
 But, you will not get a response from the LLM.
@@ -341,7 +327,7 @@ Refresh your dev server and now it should work!
 
 ## Conclusion
 
-This is just the tip of the iceberg with AI Elements. Be sure to read their [Github Repo](https://github.com/vercel/ai-elements/blob/main/README.md) and explore their docs further.
+This is just the tip of the iceberg with AI Elements. Be sure to their [Github Repo](https://github.com/vercel/ai-elements/blob/main/README.md) and explore their docs further.
 
 We tapped into ~5 of their components. But as of November 17, 2025, this is a list of the components they provide:
 
