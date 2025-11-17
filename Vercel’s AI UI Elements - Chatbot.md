@@ -1,3 +1,12 @@
+---
+title: Vercel AI UI Elements - Chatbot
+draft: false
+ignore: false
+topics:
+  - ai
+created_at: 2025-11-17T01:19
+last_modified: 2025-11-17T04:21
+---
 In this article, we'll be exploring Vercel's latest UI library - [AI Elements](https://vercel.com/changelog/introducing-ai-elements) - a component library and custom registry built on top of [shadcn/ui](ui.shadcn.com/) to help you build AI-native applications faster.
 ## Prerequisites
 
