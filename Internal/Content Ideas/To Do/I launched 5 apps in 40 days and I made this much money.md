@@ -38,13 +38,7 @@ The other steps can be completely eliminated now that I know how to run Claude C
 
 ## Twittervim
 
-Twittervim was never meant to make money. It was meant to drive traffic to my X account as #buildinpublic content.
-
-It's hard to say how many people followed me during this particular phase. Part of me hoped someone like theprimegan picked it up and began using it - which would have exploded my account.
-
-He didn't. It just ran with organic traffic. 
-
-But that's okay, it was fun to make and deploy to the Chrome Extension store and I personally use it daily.
+Twittervim was never meant to 
 
 ## Humanize.rs
 
@@ -72,6 +66,3 @@ This is not an area I am passionate about. I really just wanted to test a proven
 
 **Future:**
 This site will probably be deprecated. But, I do like the UI and think that worked well, so I will be re-using it as a template for future projects.
-
-## Pullrequest
-

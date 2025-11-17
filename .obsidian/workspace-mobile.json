@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Internal/Daily Notes/2025-11-15.md",
+                "file": "Internal/Daily Notes/2025-11-16.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-11-15"
+              "title": "2025-11-16"
             }
           }
         ]
@@ -162,6 +162,8 @@
   },
   "active": "aa3020283bc3e3f7",
   "lastOpenFiles": [
+    "Internal/Daily Notes/2025-11-15.md",
+    "Internal/Daily Notes/2025-11-16.md",
     "/Internal/Daily Notes/2025-11-15.md",
     "/Internal/Daily Notes",
     "/Internal",
@@ -195,7 +197,6 @@
     "/Internal/Content Ideas/To Do",
     "/Internal/Content Ideas",
     "Internal/Startups/Voicescri.pt/Blog Posts/Claude Code Github Action Tips.md",
-    "Internal/Daily Notes/2025-11-15.md",
     "Internal/Outreach.md",
     "Internal/Content Ideas/To Do/Tool use in Ollama.md",
     "Internal/Content Ideas/To Do/Chat with open-source models from your phone.md",
