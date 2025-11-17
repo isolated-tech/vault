@@ -317,4 +317,14 @@ The `streamText` function from the [AI SDK](https://ai-sdk.dev/docs/reference/ai
 We will be using this service to hook our chat's UI to Vercel's AI SDK, completing the end-to-end pipeline.
 
 1. Navigate to https://vercel.com/ai-gateway and create an api key.
-2. Create a `.env` fi
+2. Create a `.env` file in your project's root directory
+3. Paste the key in. It should look similar to:
+
+```
+AI_GATEWAY_API_KEY=vck_...
+```
+
+## Conclusion
+
+Refresh your dev server and now it should work!
+This is just the tip of the iceberg.
