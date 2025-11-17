@@ -291,8 +291,15 @@ Docs: https://ai-sdk.dev/elements/components/prompt-input
 
 The `Sources` component allows a user to view the sources or citations used to generate a response.
 
+![[CleanShot 2025-11-17 at 01.15.10@2x.png]]
 
+Docs: https://ai-sdk.dev/elements/components/sources
 
+### Reasoning
+
+The `Reasoning` component displays AI reasoning content, automatically opening during streaming and closing when finished.
+
+Docs: https://ai-sdk.dev/elements/components/reasoning
 ## Available Components
 
 AI Elements includes the following components:
