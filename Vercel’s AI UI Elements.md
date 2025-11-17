@@ -264,4 +264,4 @@ The primary components we are bringing in are:
 - [Sources](https://ai-sdk.dev/elements/components/sources)
 - [Reasoning](https://ai-sdk.dev/elements/components/reasoning)
 
-With this snippet in place,
+With this snippet in place, run your dev server.
