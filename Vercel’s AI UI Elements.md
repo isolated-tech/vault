@@ -31,7 +31,7 @@ npm i ai @ai-sdk/react zod
 
 > Vercel's `ai` SDK is not a requirement to use AI Elements, but they work seamlessly with one another and it's highly recommended.
 
-## Integration
+## UI Integration
 
 In your `app/page.tsx`, replace the code with the snippet below:
 
@@ -268,5 +268,7 @@ With this snippet in place, run your dev server. It should look like this:
 
 ![[CleanShot 2025-11-17 at 01.19.06@2x.png|400]]
 
-You can now input text into the text area, which will render your message in the messages UI.
-But, at this stage, you will not get a response from the LLM.
+You can now input text into the text area, rendering your message.
+But, you will not get a response from the LLM.
+
+## AI SDK
