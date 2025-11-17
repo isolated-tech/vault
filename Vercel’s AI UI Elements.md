@@ -309,4 +309,5 @@ export async function POST(req: Request) {
 
 ## AI Gateway
 
-Vercel's [AI Gateway](https://vercel.com/ai-gateway) service provides 
+Vercel's [AI Gateway](https://vercel.com/ai-gateway) service provides access to hundreds of AI models.
+The `streamText` function from the [AI SDK](https://ai-sdk.dev/docs/reference/ai-sdk-core/stream-text) 
