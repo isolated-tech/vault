@@ -36,8 +36,8 @@ npm i ai @ai-sdk/react zod
 In your `app/page.tsx`, replace the code with the snippet below:
 
 ```tsx
-
 'use client';
+
 import {
   Conversation,
   ConversationContent,
@@ -299,7 +299,10 @@ Docs: https://ai-sdk.dev/elements/components/sources
 
 The `Reasoning` component displays AI reasoning content, automatically opening during streaming and closing when finished.
 
+![[CleanShot 2025-11-17 at 01.16.55@2x.png]]
+
 Docs: https://ai-sdk.dev/elements/components/reasoning
+
 ## Available Components
 
 AI Elements includes the following components:
