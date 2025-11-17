@@ -1,4 +1,4 @@
-In this article, we'll be exploring Vercel's latest toy - [AI Elements](https://vercel.com/changelog/introducing-ai-elements) - a component library and custom registry built on top of [shadcn/ui](ui.shadcn.com/) to help you build AI-native applications faster.
+In this article, we'll be exploring Vercel's latest UI library - [AI Elements](https://vercel.com/changelog/introducing-ai-elements) - a component library and custom registry built on top of [shadcn/ui](ui.shadcn.com/) to help you build AI-native applications faster.
 
 ## Prerequisites
 
