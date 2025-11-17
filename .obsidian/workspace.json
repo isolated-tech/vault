@@ -35,8 +35,7 @@
               "title": "2025-11-17"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,10 +193,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8d69a16573c45312",
+  "active": "5793c8fb88a16e7d",
   "lastOpenFiles": [
-    "Vercel’s AI UI Elements.md",
     "Internal/Daily Notes/2025-11-17.md",
+    "Vercel’s AI UI Elements.md",
     "CleanShot 2025-11-17 at 01.19.06@2x.png",
     "CleanShot 2025-11-17 at 01.16.55@2x.png",
     "CleanShot 2025-11-17 at 01.15.10@2x.png",
