@@ -175,8 +175,7 @@ const ChatBotDemo = () => {
                                 label="Copy"
                               >
                                 <CopyIcon className="size-3" />
-                              </MessageAction>
-                            </MessageActions>
+                   </MessageAction>                            </MessageActions>
                           )}
                         </Message>
                       );
