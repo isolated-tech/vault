@@ -1,5 +1,4 @@
 In this article, we'll be exploring Vercel's latest UI library - [AI Elements](https://vercel.com/changelog/introducing-ai-elements) - a component library and custom registry built on top of [shadcn/ui](ui.shadcn.com/) to help you build AI-native applications faster.
-
 ## Prerequisites
 
 Before using AI Elements, ensure your project meets these requirements:
@@ -175,7 +174,8 @@ const ChatBotDemo = () => {
                                 label="Copy"
                               >
                                 <CopyIcon className="size-3" />
-                   </MessageAction>                            </MessageActions>
+                              </MessageAction>
+                            </MessageActions>
                           )}
                         </Message>
                       );
@@ -327,8 +327,7 @@ Refresh your dev server and now it should work!
 
 ## Conclusion
 
-This is just the tip of the iceberg with AI Elements. 
-Be sure to their [Github Repo](https://github.com/vercel/ai-elements/blob/main/README.md) and explore their docs further.
+This is just the tip of the iceberg with AI Elements. Be sure to their [Github Repo](https://github.com/vercel/ai-elements/blob/main/README.md) and explore their docs further.
 
 We tapped into ~5 of their components. But as of November 17, 2025, this is a list of the components they provide:
 
