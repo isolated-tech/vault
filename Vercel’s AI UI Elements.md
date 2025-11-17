@@ -312,4 +312,6 @@ export async function POST(req: Request) {
 Vercel's [AI Gateway](https://vercel.com/ai-gateway) service provides access to hundreds of AI models.
 The `streamText` function from the [AI SDK](https://ai-sdk.dev/docs/reference/ai-sdk-core/stream-text) just expects a `model` parameter from a supported model.
 
-> Give their [Model Catalog](https://vercel.com/ai-gateway/models) a look. It makes navigating the mode
+> Give their [Model Catalog](https://vercel.com/ai-gateway/models) a look. It makes navigating the models nice, quickly showing price per million tokens, providers, and more.
+
+We will be using their A
