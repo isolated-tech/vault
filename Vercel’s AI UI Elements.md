@@ -327,4 +327,6 @@ AI_GATEWAY_API_KEY=vck_...
 ## Conclusion
 
 Refresh your dev server and now it should work!
-This is just the tip of the iceberg.
+
+This is just the tip of the iceberg with AI Elements. 
+Be sure to their [Github Repo](https://github.com/vercel/ai-elements/blob/main/README.md) and explore their docs further.
