@@ -273,15 +273,23 @@ Docs: https://ai-sdk.dev/elements/components/conversation
 
 ### Message
 
+The `Message` component suite provides a complete set of tools for building chat interfaces. It includes components for displaying messages from users and AI assistants, managing multiple response branches, adding action buttons, and rendering markdown content.
 
 Docs: https://ai-sdk.dev/elements/components/message
+
 ### Prompt Input
 
-The [Prompt Input](https://ai-sdk.dev/elements/components/prompt-input) component is what brings in this beautiful input field:
+The Prompt Input component is what brings in this beautiful input field:
 
 ![[CleanShot 2025-11-17 at 01.04.50@2x.png]]
 
 The additional children components nested within `<PromptInput />` are how we control functionality within the input. Our example includes image upload, a search toggle, and a dropdown to select different LLMs.
+
+Docs: https://ai-sdk.dev/elements/components/prompt-input
+
+### Sources
+
+
 
 ## Available Components
 
