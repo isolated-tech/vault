@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "aec83ccd334a40f3",
+        "id": "0a59253ec641ab06",
         "type": "tabs",
         "children": [
           {
-            "id": "8d69a16573c45312",
+            "id": "1ad9ac41e40b8d6b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clients/Current/RundownAI/Vercel’s AI UI Elements - Chatbot.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Vercel’s AI UI Elements - Chatbot"
+              "title": "New tab"
             }
           }
         ]
@@ -181,9 +177,10 @@
   },
   "active": "9d58e11573c2cb62",
   "lastOpenFiles": [
+    "Clients/Current/RundownAI/Take-home interview.md",
+    "Clients/Current/RundownAI/Vercel’s AI UI Elements - Chatbot.md",
     "Clients/Current/RundownAI",
     "Vercel’s AI UI Elements Library.md",
-    "Clients/Current/RundownAI/Vercel’s AI UI Elements - Chatbot.md",
     "ui.shadcn.com.md",
     "9C666A18-395D-44F9-809C-B1E41110341A_1_201_a.jpeg",
     "CleanShot 2025-11-17 at 00.51.29@2x.png",
@@ -225,7 +222,6 @@
     "Internal/Bases/posts.base",
     "Internal/Bases",
     "Untitled.base",
-    "Internal/Interview Prep/Grokking-the-Coding-Interview/05. Pattern Cyclic Sort/Problem Challenge 3 - Find the First K Missing Positive Numbers (hard).py",
-    "Internal/Interview Prep/Grokking-the-Coding-Interview/05. Pattern Cyclic Sort/Problem Challenge 2 - Find the Smallest Missing Positive Number (medium).py"
+    "Internal/Interview Prep/Grokking-the-Coding-Interview/05. Pattern Cyclic Sort/Problem Challenge 3 - Find the First K Missing Positive Numbers (hard).py"
   ]
 }
