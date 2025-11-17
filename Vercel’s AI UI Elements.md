@@ -17,7 +17,19 @@ First, set up a new Next.js repo and `cd` into it by running the following comma
 npx create-next-app@latest ai-chatbot && cd ai-chatbot
 ```
 
+Then, run this command to install AI Elements alongside shadcn/ui if it's not already installed:
 
+```
+npx ai-elements@latest
+```
+
+And for the ai-related integration:
+
+```
+npm i ai @ai-sdk/react zod
+```
+
+> asdf
 
 ## Available Components
 
