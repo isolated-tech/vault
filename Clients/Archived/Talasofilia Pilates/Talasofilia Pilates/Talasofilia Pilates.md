@@ -7,8 +7,8 @@ Talasofilia Pilates is a reformer pilates studio located in Puerto Escondido, Me
 |[[Connect email address to VS code so people can send emails directly to Talasofilia's email]]|IsotechDaniela Bontecou|||Medium||Done|||
 |[[Translate website to Spanish using i18n]]|IsotechDaniela Bontecou|||Medium||Not started|||
 |[[Host images online]]|Isotech|||Medium||Done|||
-|[[Clients/Current/Talasofilia Pilates/Talasofilia Pilates/Daily Notes\|Daily Notes]]||||||Not started|||
-|[[Clients/Current/Talasofilia Pilates/Talasofilia Pilates/Timesheet\|Timesheet]]||||||Not started|||
+|[[Clients/Archived/Talasofilia Pilates/Talasofilia Pilates/Daily Notes\|Daily Notes]]||||||Not started|||
+|[[Clients/Archived/Talasofilia Pilates/Talasofilia Pilates/Timesheet\|Timesheet]]||||||Not started|||
 |[[Google Analytics]]||||||Not started|||
 |[[Check calendar loads current month]]||||||Not started|||
 |[[Clicking on green class in Calendar view should still open modal]]||||||Not started|||
