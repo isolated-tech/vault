@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/Vercel Sandbox.md",
+                "file": "Clippings/Using Vercel Sandbox to run Claude’s Agent SDK.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vercel Sandbox"
+              "title": "Using Vercel Sandbox to run Claude’s Agent SDK"
             }
           }
         ],
@@ -177,9 +177,11 @@
   },
   "active": "5cdd455a5b8da790",
   "lastOpenFiles": [
-    "Clippings/Sandbox CLI Reference.md",
-    "Clippings/Vercel Sandbox.md",
     "Internal/Daily Notes/2025-11-17.md",
+    "Clippings/Vercel Sandbox examples.md",
+    "Clippings/Using Vercel Sandbox to run Claude’s Agent SDK.md",
+    "Clippings/Vercel Sandbox.md",
+    "Clippings/Sandbox CLI Reference.md",
     "Vercel’s AI UI Elements.md",
     "Vercel’s AI UI Elements Library.md",
     "CleanShot 2025-11-17 at 00.51.29@2x.png",
@@ -217,8 +219,6 @@
     "/Internal/Daily Notes/2025-11-14.md",
     "/Internal/Content Ideas/To Do/iOS shortcuts for quicker coding.md",
     "/Internal/Content Ideas/To Do/SSH into your macOS computer from an iPhone using Tailscale.md",
-    "/Internal/Content Ideas/To Do/Running Localhost on mobile.md",
-    "/Internal/Content Ideas/To Do/Keep your Macbook running while closed.md",
     "/Internal/Startups/Voicescri.pt/Blog Posts",
     "/Internal/Startups/Voicescri.pt",
     "/Internal/Startups",
