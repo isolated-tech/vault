@@ -1,3 +1,3 @@
-Vercel released [v0](v0.app) October 11, 2023 
+Vercel released [v0](v0.app) October 11, 2023 []
 
 1. https://vercel.com/blog/announcing-v0-generative-ui
