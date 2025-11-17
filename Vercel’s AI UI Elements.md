@@ -29,7 +29,10 @@ And for the ai-related integration:
 npm i ai @ai-sdk/react zod
 ```
 
-> asdf
+> Vercel's `ai` SDK is not a requirement to use AI Elements, but they work seamlessly with one another and it's highly recommended.
+
+
+
 
 ## Available Components
 
