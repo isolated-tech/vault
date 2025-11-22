@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Internal/Daily Notes/2025-11-21.md",
+                "file": "Internal/Daily Notes/2025-11-22.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-11-21"
+              "title": "2025-11-22"
             }
           }
         ],
@@ -177,12 +177,13 @@
   },
   "active": "5cdd455a5b8da790",
   "lastOpenFiles": [
+    "Internal/Daily Notes/2025-11-21.md",
+    "Internal/Daily Notes/2025-11-22.md",
     "/Internal/Daily Notes/2025-11-19.md",
     "Internal/Daily Notes/2025-11-19.md",
     "/Internal/Daily Notes",
     "/Internal",
     "Internal/Daily Notes/2025-11-17.md",
-    "Internal/Daily Notes/2025-11-21.md",
     "Clippings/Session Management.md",
     "Clippings/Hosting the Agent SDK.md",
     "Clippings/Using Vercel Sandbox to run Claude’s Agent SDK.md",
@@ -215,7 +216,6 @@
     "Internal/Content Ideas/To Do/SSH into your macOS computer from an iPhone using Tailscale.md",
     "Internal/Content Ideas/To Do/Running Localhost on mobile.md",
     "/Internal/Periodic Notes/Weekly/2025-W46.md",
-    "Internal/Periodic Notes/Weekly/2025-W46.md",
     "/Internal/Periodic Notes/Weekly",
     "/Internal/Periodic Notes/Daily",
     "/Internal/Periodic Notes",
