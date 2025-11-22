@@ -8,7 +8,8 @@ tags: [configuration, prettier, eslint, mobile]
 
 Configure your linter and formatter to eliminate horizontal scrolling on mobile devices.
 
-AI and cloud-based coding environments are enabling us to code from our mobile devices.
+AI and cloud-based coding environments are enabling us to code from our mobile devices. Formatting tools haven’t caught up, providing default values that look good on desktop but poor on a mobile device.
+
 ## The Problem
 
 Reading code on mobile means horizontal scrolling. It’s annoying.
@@ -74,7 +75,7 @@ This catches any lines Prettier misses.
 
 Shorter lines mean more vertical scrolling and occasionally awkward line breaks in function signatures.
 
-It’s worth it. Horizontal scrolling is worse.
+I think it may be worth it. Horizontal scrolling is a pain to read clearly.
 
 ## Done
 
