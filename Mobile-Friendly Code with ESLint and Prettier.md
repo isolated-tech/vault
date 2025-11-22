@@ -85,4 +85,6 @@ Run Prettier across your codebase:
 npx prettier --write .
 ```
 
-Enjoy reading code on your phone.
+Or adjust your IDE and/or CI settings to automatically apply these changes.
+
+Enjoy reading code on your phone!
