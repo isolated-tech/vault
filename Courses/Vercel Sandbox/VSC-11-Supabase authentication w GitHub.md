@@ -1,0 +1,2 @@
+# Supabase authentication w/ GitHub
+
