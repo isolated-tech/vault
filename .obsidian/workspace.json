@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "Vercel’s AI UI Elements"
             }
-          },
-          {
-            "id": "7be2563658d114cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Internal/Daily Notes/2025-11-23.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-11-23"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,21 +179,25 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7be2563658d114cd",
+  "active": "8682e0996389faf5",
   "lastOpenFiles": [
-    "Internal/Daily Notes/2025-11-19.md",
+    "Mobile-Friendly Code with ESLint and Prettier.md",
+    "CleanShot 2025-11-17 at 01.19.06@2x.png",
+    "9C666A18-395D-44F9-809C-B1E41110341A_1_201_a.jpeg",
+    "CleanShot 2025-11-17 at 01.02.25@2x.png",
     "Internal/Daily Notes/2025-11-23.md",
+    "Untitled.md",
+    "Internal/Daily Notes/2025-11-22.md",
+    "Internal/Daily Notes/2025-11-21.md",
+    "Internal/Daily Notes/2025-11-19.md",
     "Internal/Daily Notes/2025-11-17.md",
     "Clippings/Session Management.md",
     "Clippings/Hosting the Agent SDK.md",
-    "CleanShot 2025-11-17 at 01.19.06@2x.png",
     "CleanShot 2025-11-17 at 01.16.55@2x.png",
     "CleanShot 2025-11-17 at 01.15.10@2x.png",
     "CleanShot 2025-11-17 at 01.10.13@2x.png",
     "CleanShot 2025-11-17 at 01.04.50@2x.png",
-    "CleanShot 2025-11-17 at 01.02.25@2x.png",
     "CleanShot 2025-11-17 at 00.51.29@2x.png",
-    "9C666A18-395D-44F9-809C-B1E41110341A_1_201_a.jpeg",
     "conflict-files-obsidian-git.md",
     "Vercel’s AI UI Elements.md",
     "Vercel’s AI UI Elements Library.md",
@@ -225,11 +214,6 @@
     "Clients/Current/Talasofilia Pilates/Daily Notes/Planner/Untitled 2.md",
     "Clients/Current/Talasofilia Pilates/Daily Notes/Planner/Create Daily Planner.md",
     "Clients/Current/Talasofilia Pilates/Talasofilia Pilates/availablepackages is shown on the dashboard but when you go to book class it shows zero and the calendar view is broken.md",
-    "Clients/Current/Talasofilia Pilates/Talasofilia Pilates/make the Admin Settings works because when you save it says- coming soon or something like that.md",
-    "Clients/Current/Talasofilia Pilates/Talasofilia Pilates/change the cancelation window to 24 hrs.md",
-    "Clients/Current/Talasofilia Pilates/Talasofilia Pilates/after payment is succeful the avilable class count stays at zero.md",
-    "Clients/Current/Talasofilia Pilates/Talasofilia Pilates/Untitled.md",
-    "Clients/Current/Talasofilia Pilates/Talasofilia Pilates/Translate website to Spanish using i18n.md",
     "Clients/Current/Talasofilia Pilates/Daily Notes/Planner",
     "Clients/Current/Talasofilia Pilates/Talasofilia Pilates",
     "Clients/Current/Talasofilia Pilates/Daily Notes",
