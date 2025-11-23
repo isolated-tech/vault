@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vercel Sandbox - Claude Code.md",
+                "file": "Courses/Vercel Sandbox/Vercel Sandbox - Claude Code.md",
                 "mode": "source",
                 "source": false
               },
@@ -179,9 +179,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6c7d1d924ba9157f",
+  "active": "9d58e11573c2cb62",
   "lastOpenFiles": [
-    "Vercel Sandbox - Claude Code.md",
+    "Courses",
+    "Courses/Vercel Sandbox",
+    "Courses/Vercel Sandbox/Vercel Sandbox - Claude Code.md",
     "Internal/Startup Ideas.md",
     "Mobile-Friendly Code with ESLint and Prettier.md",
     "CleanShot 2025-11-17 at 01.19.06@2x.png",
@@ -214,7 +216,6 @@
     "Clients/Current/Talasofilia Pilates/Daily Notes/Planner/Untitled 3.md",
     "Clients/Current/Talasofilia Pilates/Daily Notes/Planner/Untitled 2.md",
     "Clients/Current/Talasofilia Pilates/Daily Notes/Planner/Create Daily Planner.md",
-    "Clients/Current/Talasofilia Pilates/Talasofilia Pilates/availablepackages is shown on the dashboard but when you go to book class it shows zero and the calendar view is broken.md",
     "Clients/Current/Talasofilia Pilates/Daily Notes/Planner",
     "Clients/Current/Talasofilia Pilates/Talasofilia Pilates",
     "Clients/Current/Talasofilia Pilates/Daily Notes",
@@ -224,7 +225,6 @@
     "Clients/Current/Servigrafic Solutions/Daily Notes",
     "Clients/Current/Servigrafic Solutions",
     "Clients/Current/RundownAI",
-    "Internal/Startups/Voicescri.pt/v2",
     "Internal/Asset Library/images/Screenshot_2025-07-02_at_11.41.10.png",
     "Internal/Asset Library/images/color_palette.png"
   ]

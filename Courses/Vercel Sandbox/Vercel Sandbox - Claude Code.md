@@ -1,6 +1,6 @@
 Vercel Sandbox and Claude Code course outline. Each list item will be a dedicated video.
 
-  
+Course Code: VSC
 
 0. Showcase application
 1. Installation
