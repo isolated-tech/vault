@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vercel’s AI UI Elements.md",
+                "file": "Mobile-Friendly Code with ESLint and Prettier.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vercel’s AI UI Elements"
+              "title": "Mobile-Friendly Code with ESLint and Prettier"
             }
           }
         ]
@@ -181,12 +181,14 @@
   },
   "active": "8682e0996389faf5",
   "lastOpenFiles": [
-    "Mobile-Friendly Code with ESLint and Prettier.md",
     "CleanShot 2025-11-17 at 01.19.06@2x.png",
+    "Mobile-Friendly Code with ESLint and Prettier.md",
+    "Vercel’s AI UI Elements.md",
+    "Vercel’s AI UI Elements Library.md",
+    "Untitled.md",
     "9C666A18-395D-44F9-809C-B1E41110341A_1_201_a.jpeg",
     "CleanShot 2025-11-17 at 01.02.25@2x.png",
     "Internal/Daily Notes/2025-11-23.md",
-    "Untitled.md",
     "Internal/Daily Notes/2025-11-22.md",
     "Internal/Daily Notes/2025-11-21.md",
     "Internal/Daily Notes/2025-11-19.md",
@@ -199,8 +201,6 @@
     "CleanShot 2025-11-17 at 01.04.50@2x.png",
     "CleanShot 2025-11-17 at 00.51.29@2x.png",
     "conflict-files-obsidian-git.md",
-    "Vercel’s AI UI Elements.md",
-    "Vercel’s AI UI Elements Library.md",
     "Clippings/Vercel Sandbox.md",
     "Clippings/Vercel Sandbox examples.md",
     "Clippings/Using Vercel Sandbox to run Claude’s Agent SDK.md",
