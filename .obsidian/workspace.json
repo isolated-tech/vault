@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Ship Your Own Claude Code"
             }
+          },
+          {
+            "id": "887d614bf3f152dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Internal/Daily Notes/2025-11-24.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-11-24"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -179,7 +194,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6c7d1d924ba9157f",
+  "active": "887d614bf3f152dc",
   "lastOpenFiles": [
     "Internal/Daily Notes/2025-11-24.md",
     "Courses/Vercel Sandbox/Ship Your Own Claude Code.md",
