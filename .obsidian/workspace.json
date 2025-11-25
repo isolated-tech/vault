@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Internal/Daily Notes/2025-11-24.md",
+                "file": "Courses/Vercel Sandbox/VSC-12-Render authenticated user's repos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-11-24"
+              "title": "VSC-12-Render authenticated user's repos"
             }
           }
         ],
@@ -196,8 +196,8 @@
   },
   "active": "887d614bf3f152dc",
   "lastOpenFiles": [
-    "Internal/Daily Notes/2025-11-24.md",
     "Courses/Vercel Sandbox/Ship Your Own Claude Code.md",
+    "Internal/Daily Notes/2025-11-24.md",
     "Courses/Vercel Sandbox/VSC-01-Installation.md",
     "Courses/Vercel Sandbox/VSC-14-Deploy.md",
     "Courses/Vercel Sandbox/VSC-13-Hook sandbox logs into AI Elements.md",
