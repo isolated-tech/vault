@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Internal/Daily Notes/2025-11-25.md",
+                "file": "Courses/Vercel Sandbox/VSC-03-Sandbox observability.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-11-25"
+              "title": "VSC-03-Sandbox observability"
             }
           }
         ]
@@ -181,15 +181,15 @@
   },
   "active": "6c7d1d924ba9157f",
   "lastOpenFiles": [
-    "Courses/Vercel Sandbox/VSC-05-Running CC in sandbox.md",
-    "Internal/Daily Notes/2025-11-25.md",
-    "Courses/Vercel Sandbox/VSC-04-Installing Claude Code (CC) in sandbox.md",
     "Courses/Vercel Sandbox/VSC-02-Running a sandbox.md",
+    "Courses/Vercel Sandbox/VSC-01-Installation.md",
+    "Courses/Vercel Sandbox/Ship Your Own Claude Code.md",
+    "Internal/Daily Notes/2025-11-25.md",
+    "Courses/Vercel Sandbox/VSC-05-Running CC in sandbox.md",
+    "Courses/Vercel Sandbox/VSC-04-Installing Claude Code (CC) in sandbox.md",
     "Courses/Vercel Sandbox/VSC-00-Showcase application.md",
     "Courses/Vercel Sandbox/VSC-06-Running CC against public repository.md",
-    "Courses/Vercel Sandbox/VSC-01-Installation.md",
     "Courses/Vercel Sandbox/VSC-03-Sandbox observability.md",
-    "Courses/Vercel Sandbox/Ship Your Own Claude Code.md",
     "Courses/Vercel Sandbox/VSC-13-Deploy.md",
     "Courses/Vercel Sandbox/VSC-11-Supabase authentication w GitHub.md",
     "Courses/Vercel Sandbox/VSC-12-Render authenticated user's repos.md",
