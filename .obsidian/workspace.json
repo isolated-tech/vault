@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "cdbf824212bb0dc2",
+        "id": "7244cb958d1eb5bd",
         "type": "tabs",
         "children": [
           {
-            "id": "6c7d1d924ba9157f",
+            "id": "d9d67ac9b64a803a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/Articles/Code/AI/Agent Design Is Still Hard.md",
+                "file": "Courses/Vercel Sandbox/VSC-01-Installation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Agent Design Is Still Hard"
+              "title": "VSC-01-Installation"
             }
           }
         ]
@@ -179,11 +179,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6c7d1d924ba9157f",
+  "active": "d9d67ac9b64a803a",
   "lastOpenFiles": [
-    "Courses/Vercel Sandbox/VSC-03-Sandbox observability.md",
-    "Clippings/Articles/Code/AI/Agent Design Is Still Hard.md",
     "Courses/Vercel Sandbox/Ship Your Own Claude Code.md",
+    "Clippings/Articles/Code/AI/Agent Design Is Still Hard.md",
+    "Courses/Vercel Sandbox/VSC-03-Sandbox observability.md",
     "Courses/Vercel Sandbox/VSC-02-Running a sandbox.md",
     "Courses/Vercel Sandbox/VSC-01-Installation.md",
     "Internal/Daily Notes/2025-11-25.md",
