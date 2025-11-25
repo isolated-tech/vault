@@ -6,4 +6,5 @@ Begin from a new terminal
 - `npm i -D @types/ms @types/node`
 - `vercel link`
 - `vercel env pull`
-- 
+
+Verify OIDC in `.env.local`
