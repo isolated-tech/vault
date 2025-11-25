@@ -5,6 +5,7 @@ Resource - https://vercel.com/kb/guide/using-vercel-sandbox-claude-agent-sdk
 ```ts
 import ms from 'ms';
 import { Sandbox } from '@vercel/sandbox';
+
 async function main() {
   const sandbox = await Sandbox.create({
     resources: { vcpus: 4 },
