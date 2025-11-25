@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Vercel Sandbox/Ship Your Own Claude Code.md",
+                "file": "Courses/Vercel Sandbox/VSC-03-Sandbox observability.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ship Your Own Claude Code"
+              "title": "VSC-03-Sandbox observability"
             }
           }
         ]
@@ -181,10 +181,10 @@
   },
   "active": "6c7d1d924ba9157f",
   "lastOpenFiles": [
+    "Courses/Vercel Sandbox/Ship Your Own Claude Code.md",
     "Courses/Vercel Sandbox/VSC-03-Sandbox observability.md",
     "Courses/Vercel Sandbox/VSC-02-Running a sandbox.md",
     "Courses/Vercel Sandbox/VSC-01-Installation.md",
-    "Courses/Vercel Sandbox/Ship Your Own Claude Code.md",
     "Internal/Daily Notes/2025-11-25.md",
     "Courses/Vercel Sandbox/VSC-05-Running CC in sandbox.md",
     "Courses/Vercel Sandbox/VSC-04-Installing Claude Code (CC) in sandbox.md",
