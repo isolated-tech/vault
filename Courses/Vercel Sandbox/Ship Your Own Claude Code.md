@@ -15,5 +15,4 @@ Course Code: VSC
 10. [[VSC-10-Write prompt from web app using AI Elements|Write prompt from web app using AI Elements]]
 11. [[VSC-11-Supabase authentication w GitHub|Supabase authentication w/ GitHub]]
 12. [[VSC-12-Render authenticated user's repos|Authenticated user's repos]]
-13. [[VSC-13-Hook sandbox logs into AI Elements|Hook sandbox logs into AI Elements]]
-14. [[VSC-14-Deploy|Deploy]]
+13. [[VSC-13-Deploy|Deploy]]
