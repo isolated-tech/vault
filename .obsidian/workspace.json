@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Courses/Vercel Sandbox/VSC-08-CC make branch and pull request with GitHub MCP within Sandbox.md",
+                "file": "Courses/Vercel Sandbox/VSC-06-Running CC against public repository.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VSC-08-CC make branch and pull request with GitHub MCP within Sandbox"
+              "title": "VSC-06-Running CC against public repository"
             }
           }
         ]
@@ -181,10 +181,10 @@
   },
   "active": "d9d67ac9b64a803a",
   "lastOpenFiles": [
+    "Courses/Vercel Sandbox/VSC-04-Installing Claude Code (CC) in sandbox.md",
+    "Courses/Vercel Sandbox/VSC-08-CC make branch and pull request with GitHub MCP within Sandbox.md",
     "Courses/Vercel Sandbox/VSC-07-Running CC against private repo.md",
     "Courses/Vercel Sandbox/VSC-06-Running CC against public repository.md",
-    "Courses/Vercel Sandbox/VSC-08-CC make branch and pull request with GitHub MCP within Sandbox.md",
-    "Courses/Vercel Sandbox/VSC-04-Installing Claude Code (CC) in sandbox.md",
     "Courses/Vercel Sandbox/VSC-05-Running CC in sandbox.md",
     "Courses/Vercel Sandbox/VSC-03-Sandbox observability.md",
     "Courses/Vercel Sandbox/VSC-02-Running a sandbox.md",
