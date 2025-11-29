@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Internal/Daily Notes/2025-11-29.md",
+                "file": "Internal/Daily Notes/2025-11-28.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-11-29"
+              "title": "2025-11-28"
             }
           }
         ]
@@ -181,8 +181,8 @@
   },
   "active": "11874e9c7c2d2329",
   "lastOpenFiles": [
-    "Internal/Daily Notes/2025-11-28.md",
     "Internal/Daily Notes/2025-11-29.md",
+    "Internal/Daily Notes/2025-11-28.md",
     "Internal/Daily Notes/2025-11-26.md",
     "Courses/Vercel Sandbox/VSC-06-Running CC against public repository.md",
     "Courses/Vercel Sandbox/VSC-04-Installing Claude Code (CC) in sandbox.md",
