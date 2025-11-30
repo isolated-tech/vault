@@ -1,1 +1,3 @@
-[[Nano PDF]]
+- [[Nano PDF]]
+- [[Claude Skills - Frontend Design]]
+- 
