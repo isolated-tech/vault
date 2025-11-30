@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Video Ideas.md",
+                "file": "Internal/Daily Notes/2025-11-30.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Video Ideas"
+              "title": "2025-11-30"
             }
           },
           {
@@ -49,8 +49,7 @@
               "title": "Nano PDF"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -208,12 +207,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "62cd105c95871e45",
+  "active": "11874e9c7c2d2329",
   "lastOpenFiles": [
-    "Claude Skills - Frontend Design.md",
     "Video Ideas.md",
-    "Internal/Daily Notes/2025-11-30.md",
     "Nano PDF.md",
+    "Claude Skills - Frontend Design.md",
+    "Internal/Daily Notes/2025-11-30.md",
     "Internal/Daily Notes/2025-11-28.md",
     "Internal/Daily Notes/2025-11-29.md",
     "Internal/Daily Notes/2025-11-26.md",
