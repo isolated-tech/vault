@@ -12,7 +12,7 @@ tags:
   - video-idea
 ---
 
-
+Interact with your Obsidian Vault using Claude Code and an MCP server.
 
 
 # {{title}}
