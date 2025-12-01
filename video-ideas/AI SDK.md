@@ -11,7 +11,7 @@ tags:
   - video-idea
 ---
 
-<%* await tp.file.move("/video-ideas/" + tp.file.title) %>
+
 
 
 # {{title}}

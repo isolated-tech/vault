@@ -1,17 +1,20 @@
 ---
-created: {{date}}
+created:
+  "{ date }":
 status: idea
 priority: 1
-category: 
-target_audience: 
-published: 
-link: 
+category:
+target_audience:
+published:
+link:
 tags:
   - youtube
   - video-idea
+  - ai
+  - vercel
+  - local
 ---
 
-<%* await tp.file.move("/video-ideas/" + tp.file.title) %>
 
 
 # {{title}}

@@ -1,4 +1,5 @@
 - [[Nano PDF]]
 - [[Claude Skills - Frontend Design]]
 - [[Authentication in Nuxt 4]]
-- 
+- [[ChatGPTs Realtime Voice Agent]]
+- [[OpenAI’s Agent SDK]]

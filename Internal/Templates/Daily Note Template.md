@@ -16,6 +16,19 @@ writing:
 
 ## Tasks
 
+- [ ] Add 10 ideas to the [[Video Idea List]]
+
+```dataviewjs
+const count = dv.pages('"video-ideas"').where(p => p.file.cday.ts == dv.current().file.day.ts).length;
+dv.paragraph(`📁 ${count} new files created today`);
+```
+
+```dataview
+LIST
+FROM "video-ideas"
+WHERE file.cday = this.file.day
+```
+
 
 ### Content Creation
 
