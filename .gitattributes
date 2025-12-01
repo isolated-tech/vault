@@ -1,2 +1,2 @@
 # Use union merge for daily notes to combine changes instead of conflicting
-Internal/Daily Notes/*.md merge=union
+Internal/Daily\ Notes/*.md merge=union
