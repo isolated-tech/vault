@@ -1,2 +1,4 @@
 - [[Nano PDF]]
 - [[Claude Skills - Frontend Design]]
+- [[Authentication in Nuxt 4]]
+- 
