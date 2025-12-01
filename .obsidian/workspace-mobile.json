@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mobile-Friendly Code with ESLint and Prettier.md",
+                "file": "Internal/Daily Notes/2025-11-30.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Mobile-Friendly Code with ESLint and Prettier"
+              "title": "2025-11-30"
             }
           }
         ],
@@ -192,6 +192,7 @@
   "active": "611062290408d8b5",
   "lastOpenFiles": [
     "Internal/Daily Notes/2025-11-22.md",
+    "Internal/Daily Notes/2025-11-30.md",
     "Mobile-Friendly Code with ESLint and Prettier.md",
     "Internal/Daily Notes/2025-11-21.md",
     "/Internal/Daily Notes/2025-11-19.md",
@@ -229,7 +230,6 @@
     "Internal/Content Ideas/To Do/iOS shortcuts for quicker coding.md",
     "Internal/Content Ideas/To Do/Codex in Github.md",
     "Internal/Content Ideas/To Do/SSH into your macOS computer from an iPhone using Tailscale.md",
-    "Internal/Content Ideas/To Do/Running Localhost on mobile.md",
     "/Internal/Periodic Notes/Weekly",
     "/Internal/Periodic Notes/Daily",
     "/Internal/Periodic Notes",
