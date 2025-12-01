@@ -4,67 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "b6c7c6474fc8b815",
+        "id": "7591b65a8c8c9bec",
         "type": "tabs",
         "children": [
           {
-            "id": "11874e9c7c2d2329",
+            "id": "8682e0996389faf5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Video Ideas.md",
+                "file": "Vercel’s AI UI Elements.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Video Ideas"
+              "title": "Vercel’s AI UI Elements"
             }
           },
           {
-            "id": "62cd105c95871e45",
+            "id": "7be2563658d114cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Video Ideas.md",
+                "file": "Internal/Daily Notes/2025-11-19.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Video Ideas"
-            }
-          },
-          {
-            "id": "f1afc0d2dc688e3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Internal/Daily Notes/2025-11-30.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-11-30"
-            }
-          },
-          {
-            "id": "be1c40a2f1f13a12",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Internal/Daily Notes/2025-11-30.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-11-30"
+              "title": "2025-11-19"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -222,14 +194,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "be1c40a2f1f13a12",
+  "active": "7be2563658d114cd",
   "lastOpenFiles": [
-    "Video Ideas.md",
-    "Internal/Daily Notes/2025-11-30.md",
-    "conflict-files-obsidian-git.md",
-    "Vercel’s AI UI Elements.md",
-    "Vercel’s AI UI Elements Library.md",
-    "Untitled.md",
+    "Internal/Daily Notes/2025-11-17.md",
+    "Internal/Daily Notes/2025-11-19.md",
+    "Clippings/Session Management.md",
+    "Clippings/Hosting the Agent SDK.md",
     "CleanShot 2025-11-17 at 01.19.06@2x.png",
     "CleanShot 2025-11-17 at 01.16.55@2x.png",
     "CleanShot 2025-11-17 at 01.15.10@2x.png",
@@ -238,36 +208,38 @@
     "CleanShot 2025-11-17 at 01.02.25@2x.png",
     "CleanShot 2025-11-17 at 00.51.29@2x.png",
     "9C666A18-395D-44F9-809C-B1E41110341A_1_201_a.jpeg",
-    "Nano PDF.md",
-    "Claude Skills - Frontend Design.md",
-    "Internal/Daily Notes/2025-11-28.md",
-    "Internal/Daily Notes/2025-11-29.md",
-    "Internal/Daily Notes/2025-11-26.md",
-    "Courses/Vercel Sandbox/VSC-06-Running CC against public repository.md",
-    "Courses/Vercel Sandbox/VSC-04-Installing Claude Code (CC) in sandbox.md",
-    "Courses/Vercel Sandbox/VSC-08-CC make branch and pull request with GitHub MCP within Sandbox.md",
-    "Courses/Vercel Sandbox/VSC-07-Running CC against private repo.md",
-    "Courses/Vercel Sandbox/VSC-05-Running CC in sandbox.md",
-    "Courses/Vercel Sandbox/VSC-03-Sandbox observability.md",
-    "Courses/Vercel Sandbox/VSC-02-Running a sandbox.md",
-    "Courses/Vercel Sandbox/VSC-01-Installation.md",
-    "Courses/Vercel Sandbox/Ship Your Own Claude Code.md",
-    "Clippings/Articles/Code/AI/Agent Design Is Still Hard.md",
-    "Internal/Daily Notes/2025-11-25.md",
-    "Courses/Vercel Sandbox/VSC-00-Showcase application.md",
-    "Courses/Vercel Sandbox/VSC-13-Deploy.md",
-    "Courses/Vercel Sandbox/VSC-11-Supabase authentication w GitHub.md",
-    "Courses/Vercel Sandbox/VSC-12-Render authenticated user's repos.md",
-    "Courses/Vercel Sandbox/VSC-12-Render authenticated user's repos.md.tmp.87764.1763939998496",
-    "Courses/Vercel Sandbox/VSC-08-CC make branch and pull request with GitHub MCP within Sandbox.md.tmp.87764.1763939998135",
-    "Courses/Vercel Sandbox/VSC-01-Installation.md.tmp.87764.1763939997576",
-    "Courses/Vercel Sandbox/VSC-00-Showcase application.md.tmp.87764.1763939997470",
-    "Courses",
-    "Courses/Vercel Sandbox",
+    "conflict-files-obsidian-git.md",
+    "Vercel’s AI UI Elements.md",
+    "Vercel’s AI UI Elements Library.md",
+    "Clippings/Vercel Sandbox.md",
+    "Clippings/Vercel Sandbox examples.md",
+    "Clippings/Using Vercel Sandbox to run Claude’s Agent SDK.md",
+    "Clippings/Sandbox CLI Reference.md",
+    "Clients/Current/Talasofilia Pilates/Daily Notes/Planner/Test.md",
+    "Clients/Current/Talasofilia Pilates/Daily Notes/Planner/Untitled.md",
+    "Clients/Current/Talasofilia Pilates/Daily Notes/Planner/Untitled 6.md",
+    "Clients/Current/Talasofilia Pilates/Daily Notes/Planner/Untitled 5.md",
+    "Clients/Current/Talasofilia Pilates/Daily Notes/Planner/Untitled 4.md",
+    "Clients/Current/Talasofilia Pilates/Daily Notes/Planner/Untitled 3.md",
+    "Clients/Current/Talasofilia Pilates/Daily Notes/Planner/Untitled 2.md",
+    "Clients/Current/Talasofilia Pilates/Daily Notes/Planner/Create Daily Planner.md",
+    "Clients/Current/Talasofilia Pilates/Talasofilia Pilates/availablepackages is shown on the dashboard but when you go to book class it shows zero and the calendar view is broken.md",
+    "Clients/Current/Talasofilia Pilates/Talasofilia Pilates/make the Admin Settings works because when you save it says- coming soon or something like that.md",
+    "Clients/Current/Talasofilia Pilates/Talasofilia Pilates/change the cancelation window to 24 hrs.md",
+    "Clients/Current/Talasofilia Pilates/Talasofilia Pilates/after payment is succeful the avilable class count stays at zero.md",
+    "Clients/Current/Talasofilia Pilates/Talasofilia Pilates/Untitled.md",
+    "Clients/Current/Talasofilia Pilates/Talasofilia Pilates/Translate website to Spanish using i18n.md",
+    "Clients/Current/Talasofilia Pilates/Talasofilia Pilates/Timesheet.md",
     "Clients/Current/Talasofilia Pilates/Daily Notes/Planner",
     "Clients/Current/Talasofilia Pilates/Talasofilia Pilates",
     "Clients/Current/Talasofilia Pilates/Daily Notes",
     "Clients/Current/Talasofilia Pilates",
+    "Clients/Current/Servigrafic Solutions/Daily Notes/Planner",
+    "Clients/Current/Servigrafic Solutions/Servigrafic Solutions",
+    "Clients/Current/Servigrafic Solutions/Daily Notes",
+    "Clients/Current/Servigrafic Solutions",
+    "Clients/Current/RundownAI",
+    "Internal/Startups/Voicescri.pt/v2",
     "Internal/Asset Library/images/Screenshot_2025-07-02_at_11.41.10.png",
     "Internal/Asset Library/images/color_palette.png"
   ]
